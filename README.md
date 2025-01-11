@@ -1,1 +1,1 @@
-# Blackjack
+# Blackjack made using the c language
